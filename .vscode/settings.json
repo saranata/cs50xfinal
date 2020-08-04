@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": ".env\\Scripts\\python.exe"
+    "python.pythonPath": ".env\\Scripts\\python.exe",
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/73e3bfae-d19d-4d89-9fb9-96b44c3397a4/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/saracs50xfinal",
+    "appService.deploySubpath": "."
 }
